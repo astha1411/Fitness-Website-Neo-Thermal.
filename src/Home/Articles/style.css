@@ -1,0 +1,28 @@
+img {
+  border-radius: 50%;
+  opacity: 1;
+  width: 250px;
+  height: 200px;
+}
+
+#cont {
+  margin: 70px !important;
+}
+img:hover {
+  width: 280px;
+  height: 210px;
+  border-style: groove;
+  border-color: purple;
+}
+.text {
+  margin-top: 20px !important;
+
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: palevioletred;
+}

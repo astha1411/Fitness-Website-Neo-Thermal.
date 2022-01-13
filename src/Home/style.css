@@ -1,0 +1,43 @@
+.card {
+  padding-top: 5px !important;
+  padding-left: 20px !important;
+  padding-right: 10px !important;
+  padding-bottom: 10px !important;
+  border-radius: 10px !important;
+
+  margin-top: 20px !important;
+  background-color: white;
+  width: 840px !important;
+  border: 2px solid #e6e6fa;
+  height: 480px;
+}
+body {
+  background-image: url("../asset/workout.jpg");
+  height: 1300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+  background-color: rgb(255, 255, 255, 0.9);
+}
+
+#block {
+  display: flex;
+
+  justify-content: space-around;
+}
+#small-block {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  padding-top: 20px;
+}
+hr {
+  border: none;
+
+  width: 1100px;
+  height: 50px;
+
+  border-bottom: 1px solid #1f1209;
+  box-shadow: 0 20px 20px -20px #333;
+}

@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  width: 250px;
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 60px;
+  justify-content: space-around;
+}
+
+.time {
+  font-size: 32px;
+}
+#button {
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+  height: 40px;
+
+  position: absolute;
+
+  background-color: rgb(0, 200, 255, 0.99);
+  width: 170px;
+}
+
+.icon {
+  margin-left: 190px;
+  float: right;
+  font-size: 30px;
+  margin-top: 5px;
+  color: orange;
+}
